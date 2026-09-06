@@ -1,103 +1,116 @@
+<div align="center">
+
 # 🔥 Titas Prepaid Gas
 
 ### Modern Android application for Titas prepaid gas customers — patched, compatibility-focused, and NFC-ready.
 
-[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)](#)
-[![NFC](https://img.shields.io/badge/NFC-Ready-6366F1?style=flat-square)](#)
-[![APK](https://img.shields.io/badge/Format-APK-111827?style=flat-square)](#)
-[![License](https://img.shields.io/badge/License-Educational-8B5CF6?style=flat-square)](#)
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)](https://www.android.com/) [![NFC](https://img.shields.io/badge/NFC-Ready-6366F1?style=flat-square)](#nfc-support) [![APK](https://img.shields.io/badge/Format-APK-111827?style=flat-square)](#download) [![License](https://img.shields.io/badge/License-Educational-8B5CF6?style=flat-square)](#disclaimer)
 
-> **Titas Prepaid Gas Customer** is an Android application focused on providing a convenient prepaid gas experience, with the latest patched build optimized for broader Android compatibility and optional NFC functionality.
+**Titas Prepaid Gas Customer · Android · NFC · APK**
 
----
+[**⬇️ Download Latest APK**](./Titas_Prepaid_Gas_PATCHED.apk)
 
-## ✨ Features
-
-* 📱 **Broad Android Compatibility** — patched for improved installation and device compatibility.
-* 📡 **NFC Ready** — NFC functionality can be used on supported Android devices.
-* ⚡ **Patched & Fixed** — required compatibility and application issues addressed.
-* 🔧 **Device-Aware** — NFC-dependent functionality requires compatible hardware.
-* 📦 **Easy APK Installation** — install directly on supported Android devices.
-* 🚀 **Updated Build** — latest patched APK included in this repository.
+</div>
 
 ---
 
-## 📲 Latest APK
+## ✨ Overview
 
-### `Titas_Prepaid_Gas_PATCHED.apk`
+**Titas Prepaid Gas** is an Android application focused on prepaid gas customer functionality, with a patched build designed for improved Android compatibility and **NFC-enabled workflows on supported devices**.
 
-**[⬇️ Download the Latest Patched APK](./Titas_Prepaid_Gas_PATCHED.apk)**
+The latest patched APK addresses required compatibility issues and is intended to provide a smoother installation experience across a broader range of Android devices.
 
-Download → Install → Open → Use NFC when supported by your device.
+## 🚀 Features
 
-> **NFC:** Devices without NFC can still install the application. NFC functionality is available only when supported by the device hardware and Android system.
+* 📱 **Broad Android Compatibility**
+* 📡 **NFC Support** on compatible devices
+* 🔧 **Patched & Fixed** compatibility issues
+* 📦 **Direct APK Installation**
+* ⚡ **Simple & Lightweight Experience**
+* 🔄 **Updated Patched Build**
+* 🛡️ Device-aware NFC functionality
 
----
+## 📥 Download
 
-## 🛠️ Patch & Compatibility
+<div align="center">
 
-The patched release focuses on resolving required application and installation compatibility issues and improving support across a wider range of Android devices.
+### Latest Release
 
-### Current Build
+**Titas Prepaid Gas — PATCHED APK**
 
-| Component                 | Status                      |
-| ------------------------- | --------------------------- |
-| Android Installation      | ✅ Improved                  |
-| Application Compatibility | ✅ Patched                   |
-| NFC Support               | 📡 Supported when available |
-| APK Distribution          | ✅ Available                 |
-| Latest Build              | 🚀 Patched                  |
+[**⬇️ Download Titas_Prepaid_Gas_PATCHED.apk**](./Titas_Prepaid_Gas_PATCHED.apk)
 
----
+</div>
 
-## 📱 Android & NFC
+### Installation
 
-NFC functionality depends on:
+1. Download the latest APK.
+2. Install it on your Android device.
+3. Open the application.
+4. If your device supports NFC, enable NFC from Android settings when required.
+5. Use the available NFC functionality with compatible hardware and supported workflows.
 
-* NFC-capable Android hardware
-* Android system support
-* Appropriate system permissions
-* Compatibility with the intended NFC workflow
+> **Note:** Android devices without NFC hardware can still install the application. NFC-dependent features require an NFC-capable device and appropriate Android system support.
 
-If your device does not contain NFC hardware, the application can still be installed, but NFC-dependent functionality will not be available.
+## 📡 NFC Support
 
----
+NFC functionality depends on the device's hardware, Android version, system permissions, and compatibility with the intended NFC workflow.
 
-## 🔍 About
+| Capability                 | Status                |
+| -------------------------- | --------------------- |
+| Android APK                | ✅ Available           |
+| APK Installation           | ✅ Supported           |
+| Broad Device Compatibility | ✅ Improved            |
+| NFC-Capable Devices        | 📡 NFC Ready          |
+| Devices Without NFC        | ✅ Installable         |
+| NFC-Dependent Features     | 📡 Hardware Dependent |
 
-**Titas Prepaid Gas Customer** is an Android-focused project related to prepaid gas customer functionality and NFC-enabled workflows.
+## 🛠️ What's Improved
 
-This repository provides the **patched Android APK** for testing and personal use.
+The **PATCHED** build focuses on:
 
----
+* Resolving required application compatibility issues
+* Improving installation compatibility
+* Supporting a wider range of Android devices
+* Maintaining NFC functionality where supported
+* Providing an updated APK for testing and personal use
+
+## 📱 Compatibility
+
+The application is intended for **Android devices**.
+
+Actual functionality may vary depending on:
+
+* Android version
+* Device manufacturer
+* Device hardware
+* NFC availability
+* Android permissions and system restrictions
 
 ## ⚠️ Disclaimer
 
-This is an **independent, unofficial project** and is **not affiliated with, sponsored by, or endorsed by Titas Gas Transmission and Distribution Company PLC**.
+This is an **independent and unofficial project**. It is **not affiliated with, sponsored by, or endorsed by Titas Gas Transmission and Distribution Company PLC**.
 
-Use the application responsibly and only with systems, devices, accounts, and services you are authorized to use.
+Use this application only with devices, accounts, systems, and services you are authorized to use.
+
+## ⭐ Support
+
+If you find this project useful, consider giving the repository a **⭐ Star** and sharing it with other Android and prepaid-gas users who may benefit from it.
+
+<div align="center">
+
+### 🔥 Titas Prepaid Gas · Android · NFC
+
+**Built for compatibility. Ready for NFC.**
+
+**Author — Md. Torikul Islam Lipon**
+
+[GitHub](https://github.com/lipon101)
+
+</div>
 
 ---
 
-## ⭐ Support the Project
+### 🔎 Related Topics
 
-If you find this project useful:
-
-**⭐ Star the repository**
-**🔗 Share it with others**
-**🐛 Report legitimate compatibility issues**
-
----
-
-### 🔎 Search Keywords
-
-**Titas Gas · Titas Prepaid Gas · Titas Gas APK · Titas Prepaid Gas APK · Titas Gas Android App · Titas Prepaid Meter · Titas Gas Bangladesh · Prepaid Gas Customer App · Android NFC · NFC Android App · NFC Prepaid Meter · Bangladesh Prepaid Gas · Titas Customer App**
-
----
-
-### 👨‍💻 Author
-
-**Md. Torikul Islam Lipon**
-
-[GitHub → @lipon101](https://github.com/lipon101)
-
+`Titas Gas` · `Titas Prepaid Gas` · `Titas Gas APK` · `Titas Prepaid Gas APK` · `Titas Gas Android App` · `Titas Prepaid Meter` · `Titas Gas Bangladesh` · `Prepaid Gas Customer` · `Android NFC` · `NFC Android App` · `NFC Prepaid Meter` · `Bangladesh Prepaid Gas`
